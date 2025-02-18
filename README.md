@@ -1,3 +1,3 @@
 # Memories
 
-Developed with Unreal Engine 5
+Third Person Stealth-Action Game. Developed with Unreal Engine 5
